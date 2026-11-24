@@ -31,3 +31,6 @@ dev-authorized/epicfight/
 
 # Local-only AI notes
 /docs/session-01a0df2f-b247-7043-b84e-6a25eed8ef6c.md
+
+# Older Forge data runs can still leave generated logs here.
+/run-data/logs/
